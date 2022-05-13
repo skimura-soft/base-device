@@ -1,7 +1,5 @@
 <h1 align="center">Aulia Rahman <img src="https://avatars.githubusercontent.com/u/105280611?s=400&u=1dc8852cbf818925a4654c53c63c154e13c0a84f&v=4" width="40px" alt=""><br></h1>
-<p align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" />
-</p>
+
 
 <p align="center">
 
